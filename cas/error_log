@@ -1,0 +1,9 @@
+[17-Apr-2022 17:01:44 Europe/Minsk] PHP Warning:  mysqli_query(): (HY000/1194): Table 'tvcas_logs' is marked as crashed and should be repaired in /var/www/html/includes/functions.php on line 652
+[17-Apr-2022 17:01:44 Europe/Minsk] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /var/www/html/includes/functions.php on line 670
+[17-Apr-2022 17:02:02 Europe/Minsk] PHP Warning:  mysqli_query(): (HY000/1194): Table 'tvcas_logs' is marked as crashed and should be repaired in /var/www/html/includes/functions.php on line 652
+[17-Apr-2022 17:02:02 Europe/Minsk] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /var/www/html/includes/functions.php on line 670
+[17-Apr-2022 17:08:41 Europe/Minsk] PHP Parse error:  syntax error, unexpected ',' in /var/www/html/cas/bin/functions.php on line 118
+[17-Apr-2022 17:09:03 Europe/Minsk] PHP Parse error:  syntax error, unexpected ')' in /var/www/html/cas/bin/functions.php on line 118
+[17-Apr-2022 17:09:05 Europe/Minsk] PHP Parse error:  syntax error, unexpected ')' in /var/www/html/cas/bin/functions.php on line 118
+[13-Jun-2022 06:34:39 Europe/Minsk] PHP Warning:  mysqli_query(): (HY000/1194): Table 'tvcas_ecmg_log' is marked as crashed and should be repaired in /var/www/html/includes/functions.php on line 652
+[13-Jun-2022 06:34:39 Europe/Minsk] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /var/www/html/includes/functions.php on line 670
